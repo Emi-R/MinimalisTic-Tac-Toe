@@ -1,8 +1,10 @@
-/*Console Tic Tac Toe por Emiliano Ramirez
+/* Console Tic Tac Toe por Emiliano Ramirez
 * 
 * Desafio: hacer un ta te ti 
 * usando solo matrices y funciones
 * 
+* © 2015
+*
 */
 
 #include <iostream>
