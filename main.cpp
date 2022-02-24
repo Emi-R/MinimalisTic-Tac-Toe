@@ -3,7 +3,6 @@
 * Desafio: hacer un ta te ti 
 * usando solo matrices y funciones
 * 
-* © 2015
 *
 */
 
